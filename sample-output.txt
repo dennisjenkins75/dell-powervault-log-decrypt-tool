@@ -1,0 +1,217 @@
+ppR076735B6: SD_rLGSN: Status good
+ppR076735CA: SS_rTUR : LUN [0]
+ppR076735CA: SD_rTUR : Stat[02] Sense[02] Add[0401]
+ppR076735CA: SS_rRQSN: Alloc[12]
+ppR076735CB: SD_rRQSN: Returned Sense[02] Add[0401]
+ppR076735CB: SS_rLGSN: SV[F] CHG[F] PgCtr[01] PgCd[31]
+ppR076735CB:    PrmSt[0000] Alloc[3B]
+ppR076735CB: SD_rLGSN: Status good
+ppR076735CB: SS_rINQ : EVPD[F] Page[00] Alloc[38]
+ppR076735CC: SD_rINQ : Status good
+ppR076735CC: SS_rINQ : EVPD[T] Page[80] Alloc[38]
+ppR076735CC: SD_rINQ : Status good
+ppR076735CD: SS_rINQ : EVPD[T] Page[DD] Alloc[38]
+ppR076735CD: SD_rINQ : Status good
+ppR076735CD: SS_rMDSN: PgCtl[00] PgCd[1D] Alloc[18] Part[0]
+ppR076735CE: SD_rMDSN: Status good
+ppR076735D6: SS_rTUR : LUN [0]
+ppR076735D6: SD_rTUR : Stat[02] Sense[02] Add[0401]
+ppR076735D6: SS_rRQSN: Alloc[12]
+ppR076735D6: SD_rRQSN: Returned Sense[02] Add[0401]
+ppR076735D6: SS_rLGSN: SV[F] CHG[F] PgCtr[01] PgCd[31]
+ppR076735D6:    PrmSt[0000] Alloc[3B]
+ppR076735D7: SD_rLGSN: Status good
+ppR076735DE: SS_rTUR : LUN [0]
+ppR076735DE: SD_rTUR : Stat[02] Sense[02] Add[0401]
+ppR076735DE: SS_rRQSN: Alloc[12]
+ppR076735DF: SD_rRQSN: Returned Sense[02] Add[0401]
+ppR076735DF: SS_rLGSN: SV[F] CHG[F] PgCtr[01] PgCd[31]
+ppR076735DF:    PrmSt[0000] Alloc[3B]
+ppR076735DF: SD_rLGSN: Status good
+ppR076735E0: SS_rLGSN: SV[F] CHG[F] PgCtr[01] PgCd[30]
+ppR076735E0:    PrmSt[0000] Alloc[44]
+ppR076735E0: SD_rLGSN: Status good
+ppR076735F4: SS_rTUR : LUN [0]
+ppR076735F4: SD_rTUR : Stat[02] Sense[02] Add[0401]
+ppR076735F4: SS_rRQSN: Alloc[12]
+ppR076735F5: SD_rRQSN: Returned Sense[02] Add[0401]
+ppR076735F5: SS_rLGSN: SV[F] CHG[F] PgCtr[01] PgCd[31]
+ppR076735F5:    PrmSt[0000] Alloc[3B]
+ppR076735F5: SD_rLGSN: Status good
+ppR076735F5: SS_rMDSN: PgCtl[00] PgCd[1D] Alloc[18] Part[0]
+ppR076735F6: SD_rMDSN: Status good
+ppR076735F6: SS_rRES : Tag[T] Type[0] Addr[0100] Cnt[1] Alloc[48]
+ppR076735F7: SD_rRES : Status good
+ppR076735F7: SS_rRES : Tag[T] Type[0] Addr[0101] Cnt[1] Alloc[48]
+ppR076735F8: SD_rRES : Status good
+ppR076735F8: SS_rLGSN: SV[F] CHG[F] PgCtr[01] PgCd[3D]
+ppR076735F8:    PrmSt[0100] Alloc[1000]
+ppR076735FB: SD_rLGSN: Status good
+ppR076735FC: SS_rLGSN: SV[F] CHG[F] PgCtr[01] PgCd[3D]
+ppR076735FC:    PrmSt[0101] Alloc[1000]
+ppR076735FD: SD_rLGSN: Status good
+ppR076735FF: SS_rLGSN: SV[F] CHG[F] PgCtr[01] PgCd[2E]
+ppR076735FF:    PrmSt[0000] Alloc[144]
+ppR07673600: SD_rLGSN: Status good
+ppR07673600: SS_rLGSN: SV[F] CHG[F] PgCtr[01] PgCd[3B]
+ppR07673600:    PrmSt[0100] Alloc[400]
+ppR07673601: SD_rLGSN: Status good
+ppR07673607: SS_rTUR : LUN [0]
+ppR07673607: SD_rTUR : Stat[02] Sense[02] Add[0401]
+ppR07673608: SS_rRQSN: Alloc[12]
+ppR07673608: SD_rRQSN: Returned Sense[02] Add[0401]
+ppR07673608: SS_rLGSN: SV[F] CHG[F] PgCtr[01] PgCd[31]
+ppR07673608:    PrmSt[0000] Alloc[3B]
+ppR07673609: SD_rLGSN: Status good
+ppR07673609: SS_rTUR : LUN [0]
+ppR07673609: SD_rTUR : Stat[02] Sense[02] Add[0401]
+ppR07673609: SS_rRQSN: Alloc[12]
+ppR07673609: SD_rRQSN: Returned Sense[02] Add[0401]
+ppR0767360A: SS_rLGSN: SV[F] CHG[F] PgCtr[01] PgCd[31]
+ppR0767360A:    PrmSt[0000] Alloc[3B]
+ppR0767360A: SD_rLGSN: Status good
+ppR0767360A: SS_rINQ : EVPD[F] Page[00] Alloc[38]
+ppR0767360B: SD_rINQ : Status good
+ppR0767360B: SS_rINQ : EVPD[T] Page[80] Alloc[38]
+ppR0767360B: SD_rINQ : Status good
+ppR0767360B: SS_rINQ : EVPD[T] Page[DD] Alloc[38]
+ppR0767360C: SD_rINQ : Status good
+ppR0767360C: SS_rMDSN: PgCtl[00] PgCd[1D] Alloc[18] Part[0]
+ppR0767360C: SD_rMDSN: Status good
+ppR0767360D: SS_rLGSN: SV[F] CHG[F] PgCtr[01] PgCd[30]
+ppR0767360D:    PrmSt[0000] Alloc[44]
+ppR0767360D: SD_rLGSN: Status good
+ppR07673621: SS_rTUR : LUN [0]
+ppR07673621: SD_rTUR : Stat[02] Sense[02] Add[0401]
+ppR07673622: SS_rRQSN: Alloc[12]
+ppR07673622: SD_rRQSN: Returned Sense[02] Add[0401]
+ppR07673622: SS_rLGSN: SV[F] CHG[F] PgCtr[01] PgCd[31]
+ppR07673622:    PrmSt[0000] Alloc[3B]
+ppR07673622: SD_rLGSN: Status good
+ppR0767362D: SS_rTUR : LUN [0]
+ppR0767362D: SD_rTUR : Stat[02] Sense[02] Add[0401]
+ppR0767362D: SS_rRQSN: Alloc[12]
+ppR0767362D: SD_rRQSN: Returned Sense[02] Add[0401]
+ppR0767362D: SS_rLGSN: SV[F] CHG[F] PgCtr[01] PgCd[31]
+ppR0767362D:    PrmSt[0000] Alloc[3B]
+ppR0767362E: SD_rLGSN: Status good
+ppR0767362E: SS_rMDSN: PgCtl[00] PgCd[1D] Alloc[18] Part[0]
+ppR0767362E: SD_rMDSN: Status good
+ppR0767362F: SS_rRES : Tag[T] Type[0] Addr[0100] Cnt[1] Alloc[48]
+ppR0767362F: SD_rRES : Status good
+ppR0767362F: SS_rRES : Tag[T] Type[0] Addr[0101] Cnt[1] Alloc[48]
+ppR07673630: SD_rRES : Status good
+ppR07673630: SS_rLGSN: SV[F] CHG[F] PgCtr[01] PgCd[3D]
+ppR07673630:    PrmSt[0100] Alloc[1000]
+ppR07673634: SD_rLGSN: Status good
+ppR07673634: SS_rLGSN: SV[F] CHG[F] PgCtr[01] PgCd[3D]
+ppR07673634:    PrmSt[0101] Alloc[1000]
+ppR07673636: SD_rLGSN: Status good
+ppR07673636: SS_rTUR : LUN [0]
+ppR07673636: SD_rTUR : Stat[02] Sense[02] Add[0401]
+ppR07673637: SS_rRQSN: Alloc[12]
+ppR07673637: SD_rRQSN: Returned Sense[02] Add[0401]
+ppR07673637: SS_rLGSN: SV[F] CHG[F] PgCtr[01] PgCd[31]
+ppR07673637:    PrmSt[0000] Alloc[3B]
+ppR07673637: SD_rLGSN: Status good
+ppR07673638: SS_rLGSN: SV[F] CHG[F] PgCtr[01] PgCd[30]
+ppR07673638:    PrmSt[0000] Alloc[44]
+ppR07673638: SD_rLGSN: Status good
+ppR0767364C: SS_rTUR : LUN [0]
+ppR0767364C: SD_rTUR : Stat[02] Sense[02] Add[0401]
+ppR0767364C: SS_rRQSN: Alloc[12]
+ppR0767364D: SD_rRQSN: Returned Sense[02] Add[0401]
+ppR0767364D: SS_rLGSN: SV[F] CHG[F] PgCtr[01] PgCd[31]
+ppR0767364D:    PrmSt[0000] Alloc[3B]
+ppR0767364D: SD_rLGSN: Status good
+ppR0767364E: SS_rINQ : EVPD[F] Page[00] Alloc[38]
+ppR0767364E: SD_rINQ : Status good
+ppR0767364E: SS_rINQ : EVPD[T] Page[80] Alloc[38]
+ppR0767364E: SD_rINQ : Status good
+ppR0767364F: SS_rINQ : EVPD[T] Page[DD] Alloc[38]
+ppR0767364F: SD_rINQ : Status good
+ppR0767364F: SS_rMDSN: PgCtl[00] PgCd[1D] Alloc[18] Part[0]
+ppR07673650: SD_rMDSN: Status good
+ppR07673657: SS_rTUR : LUN [0]
+ppR07673657: SD_rTUR : Stat[02] Sense[02] Add[0401]
+ppR07673658: SS_rRQSN: Alloc[12]
+ppR07673658: SD_rRQSN: Returned Sense[02] Add[0401]
+ppR07673658: SS_rLGSN: SV[F] CHG[F] PgCtr[01] PgCd[31]
+ppR07673658:    PrmSt[0000] Alloc[3B]
+ppR07673658: SD_rLGSN: Status good
+ppR07673662: 49: Rcvd DB or RI rqst/rsp
+ppR07673662: 4B: Data Trans Pkt
+ppR07673662: dt_Generate_Phonebook_Response
+ppR07673665: 49: RMU: Login 'admin' (192.168.2.53)
+ppR07673670: SS_rTUR : LUN [0]
+ppR07673670: SD_rTUR : Stat[02] Sense[02] Add[0401]
+ppR07673671: SS_rRQSN: Alloc[12]
+ppR07673671: SD_rRQSN: Returned Sense[02] Add[0401]
+ppR07673671: SS_rLGSN: SV[F] CHG[F] PgCtr[01] PgCd[31]
+ppR07673671:    PrmSt[0000] Alloc[3B]
+ppR07673672: SD_rLGSN: Status good
+ppR07673672: SS_rRES : Tag[T] Type[0] Addr[1000] Cnt[1] Alloc[48]
+ppR07673672: SD_rRES : Status good
+ppR07673672: SS_rLGSN: SV[F] CHG[F] PgCtr[01] PgCd[30]
+ppR07673672:    PrmSt[0000] Alloc[44]
+ppR07673673: SD_rLGSN: Status good
+ppR07673673: SS_rRES : Tag[T] Type[0] Addr[1001] Cnt[1] Alloc[48]
+ppR07673673: SD_rRES : Status good
+ppR0767367E: SS_rRES : Tag[T] Type[0] Addr[1002] Cnt[1] Alloc[48]
+ppR0767367E: SD_rRES : Status good
+ppR07673692: SS_rRES : Tag[T] Type[0] Addr[1003] Cnt[1] Alloc[48]
+ppR07673693: SD_rRES : Status good
+ppR07673693: SS_rRES : Tag[T] Type[0] Addr[1004] Cnt[1] Alloc[48]
+ppR07673693: SD_rRES : Status good
+ppR07673693: SS_rRES : Tag[T] Type[0] Addr[1005] Cnt[1] Alloc[48]
+ppR07673694: SD_rRES : Status good
+ppR07673694: SS_rRES : Tag[T] Type[0] Addr[1006] Cnt[1] Alloc[48]
+ppR07673694: SD_rRES : Status good
+ppR07673695: SS_rRES : Tag[T] Type[0] Addr[1007] Cnt[1] Alloc[48]
+ppR07673695: SD_rRES : Status good
+ppR07673695: SS_rRES : Tag[T] Type[0] Addr[1008] Cnt[1] Alloc[48]
+ppR07673696: SD_rRES : Status good
+ppR07673696: SS_rRES : Tag[T] Type[0] Addr[1009] Cnt[1] Alloc[48]
+ppR07673696: SD_rRES : Status good
+ppR07673697: SS_rRES : Tag[T] Type[0] Addr[100A] Cnt[1] Alloc[48]
+ppR07673697: SD_rRES : Status good
+ppR07673697: SS_rRES : Tag[T] Type[0] Addr[100B] Cnt[1] Alloc[48]
+ppR07673698: SD_rRES : Status good
+ppR07673698: SS_rRES : Tag[T] Type[0] Addr[100C] Cnt[1] Alloc[48]
+ppR07673698: SD_rRES : Status good
+ppR07673698: SS_rRES : Tag[T] Type[0] Addr[100D] Cnt[1] Alloc[48]
+ppR07673699: SD_rRES : Status good
+ppR07673699: SS_rRES : Tag[T] Type[0] Addr[100E] Cnt[1] Alloc[48]
+ppR0767369A: SD_rRES : Status good
+ppR0767369A: SS_rRES : Tag[T] Type[0] Addr[100F] Cnt[1] Alloc[48]
+ppR0767369A: SD_rRES : Status good
+ppR0767369A: SS_rRES : Tag[T] Type[0] Addr[1010] Cnt[1] Alloc[48]
+ppR0767369B: SD_rRES : Status good
+ppR0767369B: SS_rRES : Tag[T] Type[0] Addr[1011] Cnt[1] Alloc[48]
+ppR0767369B: SD_rRES : Status good
+ppR0767369C: SS_rRES : Tag[T] Type[0] Addr[1012] Cnt[1] Alloc[48]
+ppR0767369C: SD_rRES : Status good
+ppR0767369C: SS_rRES : Tag[T] Type[0] Addr[1013] Cnt[1] Alloc[48]
+ppR0767369D: SD_rRES : Status good
+ppR0767369D: SS_rRES : Tag[T] Type[0] Addr[1014] Cnt[1] Alloc[48]
+ppR0767369D: SD_rRES : Status good
+ppR0767369E: SS_rRES : Tag[T] Type[0] Addr[1015] Cnt[1] Alloc[48]
+ppR0767369E: SD_rRES : Status good
+ppR0767369E: SS_rRES : Tag[T] Type[0] Addr[1016] Cnt[1] Alloc[48]
+ppR0767369F: SD_rRES : Status good
+ppR0767369F: SS_rRES : Tag[T] Type[0] Addr[0100] Cnt[1] Alloc[48]
+ppR0767369F: SD_rRES : Status good
+ppR076736A0: SS_rRES : Tag[T] Type[0] Addr[0101] Cnt[1] Alloc[48]
+ppR076736A0: SD_rRES : Status good
+ppR076736A0: SS_rRES : Tag[T] Type[0] Addr[0010] Cnt[1] Alloc[48]
+ppR076736A1: SD_rRES : Status good
+ppR076736A1: SS_rLGSN: SV[F] CHG[F] PgCtr[01] PgCd[30]
+ppR076736A1:    PrmSt[0000] Alloc[44]
+ppR076736A1: SD_rLGSN: Status good
+ppR076736A2: SS_rRDBF: Md[3] Id[0] Offset[0] Alloc[4]
+ppR076736A2: SD_rRDBF: Status good
+ppR076736A2: SS_rRDBF: Md[2] Id[0] Offset[0] Alloc[1900]
+ppR076736B9: SD_rRDBF: Status good
+ppR076736BA: SS_rRDBF: Md[3] Id[9] Offset[0] Alloc[4]
+ppR076736BA: SD_rRDBF: Status good
+ppR076736BA: SS_rRDBF: Md[2] Id[9] Offset[0] Alloc[424E]
