@@ -36,7 +36,11 @@ int		main(int argc, char *argv[])
 
 	while (fgets(buff, sizeof(buff), stdin))
 	{
-		len = strlen(buff);
+		if (0 > (len = strlen(buff)))
+		{
+			continue;
+		}
+
 		buff[--len] = 0;		// remove '\n' from line.
 
 		for (i = 0; buff[i]; i++)
